@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Dharsan%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Student&descAlignY=60&descSize=18"/>
@@ -178,5 +177,4 @@ Responsive websites built using HTML, CSS, JavaScript, and modern UI principles.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=footer"/>
 
 </div>
-```
 
