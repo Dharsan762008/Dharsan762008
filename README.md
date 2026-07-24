@@ -171,6 +171,15 @@ Responsive websites built using HTML, CSS, JavaScript, and modern UI principles.
 ---
 
 <div align="center">
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dharsan762008/Dharsan762008/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+---
 
 ### ⭐ Thanks for visiting my profile!
 
