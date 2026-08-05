@@ -148,11 +148,11 @@ Responsive websites built using HTML, CSS, JavaScript, and modern UI principles.
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/dharshan-s-4368033a6/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="dharsansaravanan2008@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
@@ -166,8 +166,9 @@ Responsive websites built using HTML, CSS, JavaScript, and modern UI principles.
 
 ---
 
-<div align="center">
 ---
+
+<div align="center">
 
 # 🐍 Contribution Snake
 
