@@ -84,21 +84,17 @@
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dharsan762008&theme=algolia&row=2&column=4&no-frame=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dharsan762008&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 
 ---
 
 # 📋 GitHub Summary
 
-<div align="center">
-
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dharsan762008&theme=tokyonight"/>
-
-</div>
+</p>
 
 ---
 
